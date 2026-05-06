@@ -16,7 +16,6 @@ for j in range(num_sucursales):
 
 promedio_ventas = sum(ventas) / num_sucursales
 
-# 3. Identificar sucursales con ventas mayores al promedio
 print(f"Promedio de ventas general: ${promedio_ventas:,.2f}")
 print("")
 print("Sucursales con ventas mayores al promedio:")
